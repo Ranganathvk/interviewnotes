@@ -56,6 +56,8 @@ Sorting an ArrayList
 HashMap
 -------
 
+> Deep dive (hashing, resize, treeification, ConcurrentHashMap, fail-fast): [hashmap-internals.md](hashmap-internals.md)
+
 HashMap class implements the Map interface and it stores data in key, value pairs. HashMap provides constant time performance for its get() and put() operations, assuming the equals and hashcode method has been implemented properly, so that elements can be distributed correctly among the buckets.
 
 Some points to remember:

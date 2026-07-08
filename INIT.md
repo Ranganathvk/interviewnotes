@@ -9,10 +9,22 @@ Entry point for this repository. Use this file to browse topics by area. For the
 | Topic | File |
 |-------|------|
 | Object-oriented programming (OOPS) | [oop/oops.md](oop/oops.md) |
-| Java | [Java/basic/java-basics.md](Java/basic/java-basics.md) |
+| Java (module index — open one file at a time) | [Java/README.md](Java/README.md) |
+| Java basics (large mixed note) | [Java/basic/java-basics.md](Java/basic/java-basics.md) |
+| Object class | [Java/basic/object-class.md](Java/basic/object-class.md) |
+| String | [Java/basic/strings.md](Java/basic/strings.md) |
 | Java 8 | [Java/basic/java8.md](Java/basic/java8.md) |
+| Exceptions | [Java/exceptions/exceptions.md](Java/exceptions/exceptions.md) |
+| Generics | [Java/generics/generics.md](Java/generics/generics.md) |
 | Collection Framework | [Java/collection/collection-framework.md](Java/collection/collection-framework.md) |
+| HashMap Internals | [Java/collection/hashmap-internals.md](Java/collection/hashmap-internals.md) |
 | Multi-threading | [Java/multi-threading/multi-threading.md](Java/multi-threading/multi-threading.md) |
+| Concurrency synchronizers | [Java/multi-threading/concurrency-synchronizers.md](Java/multi-threading/concurrency-synchronizers.md) |
+| Executors & thread pools | [Java/multi-threading/executors.md](Java/multi-threading/executors.md) |
+| Virtual threads (Loom) | [Java/multi-threading/virtual-threads.md](Java/multi-threading/virtual-threads.md) |
+| JVM Internals | [Java/jvm/jvm.md](Java/jvm/jvm.md) |
+| Memory & Performance | [Java/jvm/memory-and-performance.md](Java/jvm/memory-and-performance.md) |
+| Garbage Collection | [Java/gc/gc.md](Java/gc/gc.md) |
 
 ---
 

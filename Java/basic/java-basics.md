@@ -1,6 +1,8 @@
 Java
 ====
 
+> Prefer split notes to keep context small: [Object class](object-class.md) · [String](strings.md) · [Exceptions](../exceptions/exceptions.md) · [Generics](../generics/generics.md) · [JVM](../jvm/jvm.md) · [GC](../gc/gc.md) · [Java index](../README.md)
+
 Java 8 Features
 -------------
 
